@@ -70,21 +70,11 @@ A project that makes an AI chatbot to give a fun and engaging experience.
 
 ## 📊 GitHub Statistics
 
-<p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rizwan-bm&show_icons=true&theme=tokyonight&hide_border=alt="GitHub statistics" />
-
-</p>
 
 <p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan-bm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-</p>
-
-<p>
-
-<img src="https://streak-stats.demolab.com?user=Rizwan-bm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </p>
 
