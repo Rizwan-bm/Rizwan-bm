@@ -1,49 +1,110 @@
-# 👋 Hi, I'm B M Rizwan
+# 👋 Hello, I'm B M Rizwan
 
-### 💻 Associate Software Engineer
+### 💻 Associate Software Engineer 
 
-I’m an **Associate Software Engineer** passionate about building reliable, scalable, and user-focused software solutions. I enjoy learning new technologies, solving challenging problems, and continuously improving my development skills.
+Welcome to my GitHub profile! I really like making websites that work well on all devices. I like to learn things solve problems and make creative ideas into real projects.
 
----
+🌱 ** now learning:** Software development and new web tools
 
-## 🚀 About Me
+🎯 **Goal:** Make helpful apps and get better at being a software engineer
 
-* 💼 **Associate Software Engineer**
-* 💻 Interested in **Software Development & Engineering**
-* 🌱 Continuously learning and exploring modern technologies
-* 🧩 Enjoy solving problems and building practical solutions
-* 🤝 Open to collaboration and new opportunities
-* ⚡ Always learning. Always building.
+💡 **Things I like:** Building websites making designs that look nice using AI tools and making things that work well for users
 
 ---
 
-## 📊 GitHub
+## 🛠️ Tech Stack
 
-I use GitHub to build projects, experiment with new technologies, contribute to software development, and document my learning journey.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="Technical skills" />
 
-## 🎯 Current Focus
+</p>
 
-> **Building better software, learning continuously, and growing as an engineer.**
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 
-* 🔹 Improving software engineering practices
-* 🔹 Building scalable applications
-* 🔹 Exploring modern development technologies
-* 🔹 Writing clean and maintainable code
-* 🔹 Contributing to meaningful projects
+- **Tools:** Visual Studio Code, Git, GitHub
+
+- **Things I focus on:** Making websites that look good on all devices making websites that work well and making designs that're easy to use
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-* 💼 LinkedIn: **[www.linkedin.com/in/bm-rizwan]**
-* 📧 Email: **[bm.rizwan.it@gmail.com]**
-* 🌐 Portfolio: **[https://rizwan-bm-portfolio.lovable.app/]**
+### 🎲 Dice Game
+
+A fun game where you roll dice using web tools.
+
+- 🎮 Fun to play
+
+- 🎲 Dice rolls that are random
+
+- 📱 Works well on all types of devices
+
+🔗 **[Live Demo](https://rizwan-bm.github.io/The-Dice-Game/)** · **[Source Code](https://github.com/Rizwan-bm/The-Dice-Game)**
+
+### 🧰 Toolora
+
+A web project that brings tools together in one place.
+
+- ✨ Looks nice and up to date
+
+- 📱 Works on all devices
+
+- ⚡ Easy to use
+
+🔗 **[Live Demo](https://rizwan-bm.github.io/Toolora/)** · **[Source Code](https://github.com/Rizwan-bm/Toolora)**
+
+### 🤖 ThinkBot
+
+A project that makes an AI chatbot to give a fun and engaging experience.
+
+- 💬 Chatbot style interface
+
+- 🎨 Looks modern and fresh
+
+- 📱 Works on all devices
+
+🔗 **[Live Demo](https://rizwan-bm.github.io/ThinkBot/)** · **[Source Code](https://github.com/Rizwan-bm/ThinkBot)**
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 📊 GitHub Statistics
 
-**Keep learning. Keep building. Keep growing. 🚀**
+<p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rizwan-bm&show_icons=true&theme=tokyonight&hide_border=alt="GitHub statistics" />
+
+</p>
+
+<p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan-bm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+</p>
+
+<p>
+
+<img src="https://streak-stats.demolab.com?user=Rizwan-bm&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</p>
+
+---
+
+## 🌐 Get in Touch
+
+- 💻 **GitHub:** [Rizwan-bm](https://github.com/Rizwan-bm)
+
+- 🌍 **Portfolio Projects:** [https://rizwan-bm-portfolio.lovable.app/]
+
+- 💼 **LinkedIn:** [www.linkedin.com/in/bm-rizwan]
+
+- 📧 **Email:** [bm.rizwan.it@gmail.com]
+ 
+
+---
+
+### 💬 My Developer Mindset
+
+> " learn, always build always improve. One project at a time."
+
+⭐ Thanks for stopping by my profile! Feel free to look at my code and follow my journey, as an Associate Software Engineer.
