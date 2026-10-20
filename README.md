@@ -2,13 +2,13 @@
 
 ### 💻 Associate Software Engineer 
 
-Welcome to my GitHub profile! I really like making websites that work well on all devices. I like to learn things solve problems and make creative ideas into real projects.
+Welcome to my GitHub profile! I really like making websites that work well on all devices. I like to learn things, solve problems, and make creative ideas into real projects.
 
-🌱 ** now learning:** Software development and new web tools
+🌱 Software development and new web tools
 
-🎯 **Goal:** Make helpful apps and get better at being a software engineer
+🎯 **Goal**: Make helpful apps and get better at being a software engineer
 
-💡 **Things I like:** Building websites making designs that look nice using AI tools and making things that work well for users
+💡 **Things I like:** Building websites, making designs that look nice using AI tools, and making things that work well for users
 
 ---
 
