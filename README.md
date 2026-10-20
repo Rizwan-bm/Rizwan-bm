@@ -20,7 +20,7 @@ web applications.
 - 🎯 My goal is to build useful applications and grow as a software engineer.
 - 🤖 Interested in Artificial Intelligence and modern technology.
 - 💡 I enjoy solving problems and creating responsive websites.
-- 📍 Based in Sri Lanka.
+- 
 - ## 🛠️ Tech Stack
 
 <p>
