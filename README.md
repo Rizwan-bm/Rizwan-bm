@@ -8,7 +8,7 @@ web applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Assoiate+Software+EngineerFrontend+Web+Developer;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines= Assoiate+Software+EngineerFrontend+Web+Developer;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
