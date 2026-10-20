@@ -21,19 +21,22 @@ web applications.
 - 🤖 Interested in Artificial Intelligence and modern technology.
 - 💡 I enjoy solving problems and creating responsive websites.
 - 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
+### 🌐 Frontend Development
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="Technical skills" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend skills" />
 </p>
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" alt="Programming languages" />
+</p>
 
-- **Tools:** Visual Studio Code, Git, GitHub
-
-- **Things I focus on:** Making websites that look good on all devices, making websites that work well,l and making designs that are easy to use
+### 🔧 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Development tools" />
+</p>
 
 ---
 
