@@ -103,8 +103,6 @@ An interactive memory game where players repeat color sequences and challenge th
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 
