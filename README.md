@@ -78,6 +78,31 @@ A project that makes an AI chatbot to give a fun and engaging experience.
 
 🔗 **[Live Demo](https://rizwan-bm.github.io/ThinkBot/)** · **[Source Code](https://github.com/Rizwan-bm/ThinkBot)**
 
+
+## 🏏 Cricket Arena
+
+A cricket website for exploring cricket news, scores, and match-related content.
+
+- 🏆 Cricket news and updates
+- ⚡ Interactive and modern interface
+- 📱 Responsive design for all devices
+
+🔗 [Live Demo](https://rizwan-bm.github.io/Cricketarena/#news) · [Source Code](https://github.com/Rizwan-bm/Cricketarena)
+
+---
+
+### 🎮 Simon Game
+
+An interactive memory game where players repeat color sequences and challenge their memory.
+
+- 🧠 Test your memory skills
+- 🎨 Colorful interactive gameplay
+- ⚡ Smooth animations and responsive design
+
+🔗 [Live Demo](https://rizwan-bm.github.io/Simon-Game/) · [Source Code](https://github.com/Rizwan-bm/Simon-Game)
+
+---
+
 ---
 
 ## 📊 GitHub Statistics
